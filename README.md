@@ -231,6 +231,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [Fleet device management](https://github.com/fleetdm/fleet) - Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems.
 - [Rudder](http://www.rudder-project.org/) - Rudder is an easy to use, web-driven, role-based solution for IT Infrastructure Automation & Compliance. Automate common system administration tasks (installation, configuration); Enforce configuration over time (configuring once is good, ensuring that configuration is valid and automatically fixing it is better); Inventory of all managed nodes; Web interface to configure and manage nodes and their configuration; Compliance reporting, by configuration and/or by node.
+- [VPS-SECURE](https://github.com/rockballslab/vps-secure) - Automated Ubuntu 24.04 VPS hardening script that deploys 13 security layers in under 15 minutes: CrowdSec IPS, UFW firewall, auditd, rkhunter, AIDE file integrity monitoring, SSH key-only on port 2222, Endlessh honeypot, Docker isolation, and DNS-over-TLS. CIS Benchmark ~80%. Lynis Audit 86/100.
 
 ### Authentication
 
